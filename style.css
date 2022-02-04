@@ -4,3 +4,40 @@ body{
 .menu-bar{
     justify-content: right;
 }
+.container{
+    
+}
+.center-image{
+    height: 300px;
+}
+
+.para{
+    text-align: left;
+}
+.carousel-inner{
+    padding: 0 20px;
+}
+.position-absolute a{
+    text-decoration: none;
+    color: rgb(255, 202, 9);
+}
+.bg-2{
+    padding-bottom: 50px;
+}
+.mobile-phone{
+    padding-top: 50px;
+}
+.h-100{
+    border: none;
+    box-shadow: 5px 3px 12px lightgray;
+    border-radius: 20px;
+    
+}
+.card-img-top{
+    padding: 50px 30px;
+    
+}
+.card-body{
+    text-align: center;
+}
+
