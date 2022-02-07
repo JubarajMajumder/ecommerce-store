@@ -40,4 +40,44 @@ body{
 .card-body{
     text-align: center;
 }
-
+.note-book{
+    padding-top: 50px;
+}
+#note-book{
+    padding-top: 100px;
+}
+.cat{
+    padding-top: 100px;
+    text-align: center;
+}
+.category-section{
+    padding-top: 100px;
+}
+.container-catagories{
+    padding-top: 50px;
+}
+.categories-border{
+    border-bottom: 5px solid  #FFBB24;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.category-item{
+    padding: 20px 20px;
+    border: none;
+    box-shadow: 5px 3px 12px lightgray;
+    border-radius: 10px;
+    
+}
+.category-item :hover{
+    color: blue;
+}
+.cp-jubarj{
+    text-align: center;
+    padding-top: 80px;
+}
+.cp-jubarj a{
+    text-decoration: none;
+}
+.footer-area{
+    padding-top: 80px;
+}
